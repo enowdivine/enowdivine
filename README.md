@@ -82,6 +82,9 @@
 #### 🌟 Random Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+#### 🌟 Views
+![Profile Views](https://komarev.com/ghpvc/?username=enowdivine&color=blue)
+
 #### 🔥 Visitors
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enowdivine.profile)
 
