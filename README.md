@@ -69,30 +69,6 @@ Beyond coding, I’m passionate about **mentoring**, **team leadership**, and st
 
 ---
 
-### 🔭 What I’m Currently Working On
-
-- 🚀 **E-Learning Platform**: Designing and building a course marketplace with secure payment processing and tutor review systems.
-- 🛍️ **E-Commerce Platform**: Enhancing features on an online store, improving customer experience and checkout workflows.
-- 🌐 **GraphQL Integration**: Leveraging Apollo to streamline API integrations for large-scale applications.
-- 🧪 **Unit Testing**: Implementing comprehensive tests for APIs to ensure robust functionality and reliability.
-- 💡 **Blogging**: Writing technical blogs on **web and mobile development trends** to share knowledge with the developer community.
-- 🌱 Exploring **AI tools for web optimization** and enhancing existing skill sets.
-
----
-
-### 🏆 Achievements
-
-- ✅ Spearheaded the redesign of **AECO Education's platform**, boosting engagement by 30%.
-- ✅ Delivered a **hotel website with booking and admin systems** for Summit Tech, generating a 30% increase in annual revenue.
-- ✅ Created a **school management system** for RHIIBMS, reducing admission processing time by several weeks and achieving 100% budget accuracy.
-- ✅ Launched a **dynamic e-commerce platform** for a sunglasses retailer, increasing revenue by 10%.
-- ✅ Built an advanced **administrative panel for Koree**, centralizing oversight across three applications (Cashback, Marketplace, and Delivery).
-- ✅ Mentored over **300 software developers** through a professional development program, improving their performance ratings at Nervtek.
-- ✅ Developed **Gearbest**, a responsive e-commerce UI used in 200+ countries, doubling Zotech’s annual revenue.
-- ✅ Certified Team Leader, **Heroes Nation Consulting (2021)**.
-
----
-
 ### ✨ **Fun Extras**
 
 #### 🌟 Random Quote
