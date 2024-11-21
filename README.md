@@ -8,7 +8,6 @@
 - 👀 Interested in any Mobile or Web App Project. Just leave me an  email.
 - 📫 How to reach me via email: sirdivine16@gmail.com
 - 🌎 LinkedIn: https://www.linkedin.com/in/enowdivine/
-- 
 
 <!---
 enowdivine/enowdivine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
