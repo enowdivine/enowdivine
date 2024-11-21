@@ -9,6 +9,20 @@
 
 ---
 
+### 🎯 About Me
+
+I'm Enow Divine, a **dynamic and results-driven Full Stack Software Engineer** with a strong passion for developing innovative and scalable software solutions. I specialize in **JavaScript** and **Python**, creating seamless and responsive user interfaces with **React.js**, **Vue.js**, and **Next.js**, while building robust backend systems with **Node.js** and **Django**.
+
+💼 With hands-on experience across various industries, I’ve contributed to impactful projects ranging from **e-commerce platforms** to **school management systems**, **interview prep platforms**, and more. My ability to **streamline workflows**, **improve scalability**, and **drive business growth** sets me apart as a collaborative team player and problem-solver.
+
+Beyond coding, I’m passionate about **mentoring**, **team leadership**, and staying updated with the latest in web and mobile development.
+
+🌍 Based in **Buea, South West, Cameroon**  
+📧 Contact me at **[sirdivine16@gmail.com](mailto:sirdivine16@gmail.com)**  
+🌐 Check out my portfolio: **[enowdivine.netlify.app](https://enowdivine.netlify.app/)**
+
+---
+
 ### 🌟 **Technologies I Work With**
 
 #### 🖥️ **Frontend Technologies**
@@ -55,25 +69,27 @@
 
 ---
 
-### 🔭 **What I’m Currently Working On**
-- A **React Native** mobile app for an e-commerce platform 🛍️
-- Exploring **GraphQL Apollo** for API integration 🚀
-- Writing technical blogs on **Web Development** ✍️
+### 🔭 What I’m Currently Working On
+
+- 🚀 **E-Learning Platform**: Designing and building a course marketplace with secure payment processing and tutor review systems.
+- 🛍️ **E-Commerce Platform**: Enhancing features on an online store, improving customer experience and checkout workflows.
+- 🌐 **GraphQL Integration**: Leveraging Apollo to streamline API integrations for large-scale applications.
+- 🧪 **Unit Testing**: Implementing comprehensive tests for APIs to ensure robust functionality and reliability.
+- 💡 **Blogging**: Writing technical blogs on **web and mobile development trends** to share knowledge with the developer community.
+- 🌱 Exploring **AI tools for web optimization** and enhancing existing skill sets.
 
 ---
 
-### 🎯 **About Me**
-- 🌍 Based in **[Your Location]**
-- 🎓 Graduate of **[Your University/Program]**
-- ⚡ Fun Fact: I love solving puzzles and playing chess! ♟️
-- 🚴‍♂️ Hobbies: Biking, coding, and gaming
+### 🏆 Achievements
 
----
-
-### 🏆 **Achievements**
-- ✅ Completed **AWS Certified Developer – Associate**
-- ⭐ Recognized as a **Top Contributor** on [XYZ Platform]
-- 🏅 Published 5+ apps on Google Play Store
+- ✅ Spearheaded the redesign of **AECO Education's platform**, boosting engagement by 30%.
+- ✅ Delivered a **hotel website with booking and admin systems** for Summit Tech, generating a 30% increase in annual revenue.
+- ✅ Created a **school management system** for RHIIBMS, reducing admission processing time by several weeks and achieving 100% budget accuracy.
+- ✅ Launched a **dynamic e-commerce platform** for a sunglasses retailer, increasing revenue by 10%.
+- ✅ Built an advanced **administrative panel for Koree**, centralizing oversight across three applications (Cashback, Marketplace, and Delivery).
+- ✅ Mentored over **300 software developers** through a professional development program, improving their performance ratings at Nervtek.
+- ✅ Developed **Gearbest**, a responsive e-commerce UI used in 200+ countries, doubling Zotech’s annual revenue.
+- ✅ Certified Team Leader, **Heroes Nation Consulting (2021)**.
 
 ---
 
