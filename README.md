@@ -32,4 +32,4 @@ I build the systems businesses run on: payment integrations across card and mobi
 ### Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/enowdivine/)
-- 🌐 [Portfolio](https://enowdivine.netlify.app/)
+- 🌐 [Portfolio](https://enowdivine.vercel.app/))
