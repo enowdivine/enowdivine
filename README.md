@@ -5,7 +5,7 @@
 
 I build the systems businesses run on: payment integrations across card and mobile money rails, Node.js microservices, APIs, and the deployment infrastructure that keeps them stable under real traffic. I care about the boring things that keep money moving correctly — state machines, idempotency, concurrency, and the edge cases that only show up once traffic grows.
 
-- 🏗️ Founder of **SaaS Simplified** — 50+ shipped projects across web, mobile, and SaaS
+- 🏗️ Founder of **SaaS Simplified** — 20+ shipped projects across web, mobile, and SaaS
 - 🧭 Previously **CTO** leading engineering teams; mentor to **300+ developers**
 - ✍️ I write about payments, backend architecture, and hard-won production lessons on [LinkedIn](https://www.linkedin.com/in/enowdivine/)
 - 🌍 Based in Buea, Cameroon
